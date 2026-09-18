@@ -147,6 +147,9 @@ sourceCode.getText();
 sourceCode.getText(AST);
 sourceCode.getText(AST, 0);
 sourceCode.getText(AST, 0, 0);
+sourceCode.getText(TOKEN);
+sourceCode.getText(TOKEN, 1, 1);
+sourceCode.getText(COMMENT);
 
 sourceCode.getLines();
 
